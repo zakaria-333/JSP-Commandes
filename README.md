@@ -9,10 +9,13 @@
 <img width="611" alt="Inscription" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/bf118fed-66b2-4201-9e1e-7afb007f896f">
 <img width="473" alt="login" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/10ba8664-e564-4b57-a5ea-05e0d28b4bd4">
 <img width="512" alt="Envoyé un code via l'email" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/1083d561-45e2-479a-9bd4-64eb32756f1f">
+-email contient le code de validation:
 <img width="659" alt="code recu dans l'email" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/56018e65-ad66-4b4d-a61a-27d7abbe299b">
+-formulaire pour entrer le code:
 <img width="677" alt="Validation du code" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/40f2fd89-e582-48e1-8044-5d5232ed7f58">
--si le code est valide une formulaire de modification du mot de passe va etre afficher au dessus de bloc de validation du code
+-si le code est valide une formulaire de modification du mot de passe va etre afficher au dessus de bloc de validation du code:
 <img width="787" alt="Modification du mot de passe" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/af40bdf9-1f9c-4fc8-a91f-55cc5788e0ce">
+-les espaces disponibles:
 <img width="292" alt="Espace Client" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/b0ac2c9c-5e8f-45e7-8d7e-bfd64fe476b2">
 <img width="456" alt="Espace Employe" src="https://github.com/zakaria-333/JSP-Commandes/assets/77533601/2e66763a-c804-4cf3-b917-02b3cf299a47">
 
